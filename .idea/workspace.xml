@@ -4,15 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="Adding Lab002">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab0011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab008.py" afterDir="false" />
+    <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="Adding day 02 files">
+      <change afterPath="$PROJECT_DIR$/07062024/Lab0016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab0017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab0019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07062024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/ex_lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab_075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/ex_lab074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/lab077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/lab079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb0076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2i0GhAGna8F8GRHKukuiqxjUKhx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,12 +59,34 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab0010.executor": "Run",
+    "Python.Lab0011.executor": "Run",
+    "Python.Lab0016.executor": "Run",
+    "Python.Lab0017.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073.executor": "Run",
+    "Python.Lab_075.executor": "Run",
+    "Python.ex_lab058.executor": "Run",
+    "Python.ex_lab074.executor": "Run",
+    "Python.lab077.executor": "Run",
+    "Python.lab079.executor": "Run",
+    "Python.leb0076.executor": "Run",
+    "Python.leb071.executor": "Run",
+    "Python.leb078.executor": "Run",
+    "Python.leb080.executor": "Run",
+    "Python.leb081.executor": "Run",
+    "Python.leb082.executor": "Run",
+    "Python.leb083.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -87,12 +123,40 @@
       <option name="project" value="LOCAL" />
       <updated>1718621850928</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding day 02 files">
+      <option name="closed" value="true" />
+      <created>1718626280825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718626280825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding day 02 files">
+      <option name="closed" value="true" />
+      <created>1718626313249</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718626313249</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Lab001" />
     <MESSAGE value="Adding Lab002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Lab002" />
+    <MESSAGE value="Adding day 02 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding day 02 files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_19062024/ex_lab074.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
