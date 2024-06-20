@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="Adding day 02 files">
-      <change afterPath="$PROJECT_DIR$/07062024/Lab0016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab0017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab0019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/ex_lab058.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/Lab_075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/ex_lab074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/lab077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/lab079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb0076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb078.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_19062024/leb083.py" afterDir="false" />
+    <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="Adding day 03 files">
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab054.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +62,11 @@
     "Python.Lab_075.executor": "Run",
     "Python.ex_lab058.executor": "Run",
     "Python.ex_lab074.executor": "Run",
+    "Python.lab049.executor": "Run",
+    "Python.lab051.executor": "Run",
+    "Python.lab052.executor": "Run",
+    "Python.lab053.executor": "Run",
+    "Python.lab054.executor": "Run",
     "Python.lab077.executor": "Run",
     "Python.lab079.executor": "Run",
     "Python.leb0076.executor": "Run",
@@ -139,14 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718626313249</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding day 03 files">
+      <option name="closed" value="true" />
+      <created>1718901436263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718901436265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Lab001" />
     <MESSAGE value="Adding Lab002" />
     <MESSAGE value="Adding day 02 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding day 02 files" />
+    <MESSAGE value="Adding day 03 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding day 03 files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
