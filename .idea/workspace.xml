@@ -5,13 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="Adding day 03 files">
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_14062024/lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/lab99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/leb086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_14062024/lab057.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_14062024/lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_14062024/lab051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.096.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab0011.executor": "Run",
@@ -67,8 +84,26 @@
     "Python.lab052.executor": "Run",
     "Python.lab053.executor": "Run",
     "Python.lab054.executor": "Run",
+    "Python.lab055.executor": "Run",
+    "Python.lab056.executor": "Run",
+    "Python.lab057.executor": "Run",
     "Python.lab077.executor": "Run",
     "Python.lab079.executor": "Run",
+    "Python.lab085.executor": "Run",
+    "Python.lab087.executor": "Run",
+    "Python.lab088.executor": "Run",
+    "Python.lab089.executor": "Run",
+    "Python.lab091.executor": "Run",
+    "Python.lab092.executor": "Run",
+    "Python.lab093.executor": "Run",
+    "Python.lab094.executor": "Run",
+    "Python.lab095.executor": "Run",
+    "Python.lab097.executor": "Run",
+    "Python.lab098.executor": "Run",
+    "Python.lab101.executor": "Run",
+    "Python.lab102.executor": "Run",
+    "Python.lab90.executor": "Run",
+    "Python.lab99.executor": "Run",
     "Python.leb0076.executor": "Run",
     "Python.leb071.executor": "Run",
     "Python.leb078.executor": "Run",
@@ -76,10 +111,16 @@
     "Python.leb081.executor": "Run",
     "Python.leb082.executor": "Run",
     "Python.leb083.executor": "Run",
+    "Python.leb086.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_21062024" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -136,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718901436265</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding day 03 files">
+      <option name="closed" value="true" />
+      <created>1718903610137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718903610137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
