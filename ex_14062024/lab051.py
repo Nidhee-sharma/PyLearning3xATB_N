@@ -1,4 +1,4 @@
-break - based on the condition
+k - based on the condition
 #out of the loop
 #continue - based on the condition
 #skip the statements inside loop for the current iteration and go to the next iteration
