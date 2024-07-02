@@ -5,34 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Lab0112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Leb113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/Leb115.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_26062024/leb116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07062024/lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/131.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab126-.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab126.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab127.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab128.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_28062024/lab132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/147.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab136.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab139.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab143.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab144.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab146.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab147py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab148.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab149.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/lab137.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_07012024/lab142.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_14062024/lab051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_14062024/lab051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +55,8 @@
     "Python.014.executor": "Run",
     "Python.096.executor": "Run",
     "Python.131.executor": "Run",
+    "Python.145.executor": "Run",
+    "Python.147.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab0011.executor": "Run",
@@ -83,6 +75,18 @@
     "Python.Lab061.executor": "Run",
     "Python.Lab072.executor": "Run",
     "Python.Lab073.executor": "Run",
+    "Python.Lab134.executor": "Run",
+    "Python.Lab135.executor": "Run",
+    "Python.Lab136.executor": "Run",
+    "Python.Lab138.executor": "Run",
+    "Python.Lab139.executor": "Run",
+    "Python.Lab140.executor": "Run",
+    "Python.Lab141.executor": "Run",
+    "Python.Lab143.executor": "Run",
+    "Python.Lab144.executor": "Run",
+    "Python.Lab146.executor": "Run",
+    "Python.Lab148.executor": "Run",
+    "Python.Lab149.executor": "Run",
     "Python.Lab_075.executor": "Run",
     "Python.Leb113.executor": "Run",
     "Python.Leb115.executor": "Run",
@@ -128,6 +132,8 @@
     "Python.lab129.executor": "Run",
     "Python.lab130.executor": "Run",
     "Python.lab132.executor": "Run",
+    "Python.lab137.executor": "Run",
+    "Python.lab142.executor": "Run",
     "Python.lab90.executor": "Run",
     "Python.lab99.executor": "Run",
     "Python.leb0076.executor": "Run",
@@ -140,12 +146,13 @@
     "Python.leb086.executor": "Run",
     "Python.leb116.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/ex_28062024",
+    "last_opened_file_path": "C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/ex_07012024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_07012024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_28062024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -224,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719077826614</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="4">
+      <option name="closed" value="true" />
+      <created>1719839696141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719839696141</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
