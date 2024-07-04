@@ -5,23 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/ex_07012024/145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab147py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/Lab149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_07012024/lab142.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03062024/TestData2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/LAb162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab174.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Nidhee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/Td.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_03072024/lab157.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +66,7 @@
     "Python.131.executor": "Run",
     "Python.145.executor": "Run",
     "Python.147.executor": "Run",
+    "Python.LAb162.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab0011.executor": "Run",
@@ -87,6 +97,24 @@
     "Python.Lab146.executor": "Run",
     "Python.Lab148.executor": "Run",
     "Python.Lab149.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab154.executor": "Run",
+    "Python.Lab155.executor": "Run",
+    "Python.Lab158.executor": "Run",
+    "Python.Lab159.executor": "Run",
+    "Python.Lab160.executor": "Run",
+    "Python.Lab161.executor": "Run",
+    "Python.Lab163.executor": "Run",
+    "Python.Lab164.executor": "Run",
+    "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab169.executor": "Run",
+    "Python.Lab170.executor": "Run",
+    "Python.Lab173.executor": "Run",
+    "Python.Lab174.executor": "Run",
+    "Python.Lab175.executor": "Run",
     "Python.Lab_075.executor": "Run",
     "Python.Leb113.executor": "Run",
     "Python.Leb115.executor": "Run",
@@ -134,6 +162,7 @@
     "Python.lab132.executor": "Run",
     "Python.lab137.executor": "Run",
     "Python.lab142.executor": "Run",
+    "Python.lab157.executor": "Run",
     "Python.lab90.executor": "Run",
     "Python.lab99.executor": "Run",
     "Python.leb0076.executor": "Run",
@@ -146,18 +175,94 @@
     "Python.leb086.executor": "Run",
     "Python.leb116.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/ex_07012024",
+    "last_opened_file_path": "C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/Ex_03062024",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_03062024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_07012024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_28062024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_21062024" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab166.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab167" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab167.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab168.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab168" />
+        <item itemvalue="Python.Lab167" />
+        <item itemvalue="Python.Lab166" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -239,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719839696141</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4">
+      <option name="closed" value="true" />
+      <created>1719939858238</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719939858238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
