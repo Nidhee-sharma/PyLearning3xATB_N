@@ -5,32 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/TestData2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/LAb162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab165.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab167.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab168.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab170.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab173.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab174.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Lab176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Nidhee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/Td.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_03072024/lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Api testing Learning.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/ApiTesting.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/ApiTestingCocept.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Lab175.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Lab176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Lab177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Lab178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/Lab179.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/pramod/td.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05072024/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22072024/test_lab179.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22072024/test_lab180.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22072024/test_lab181.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22072024/test_lab182.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22072024/test_lab183.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab034.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,128 +59,145 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.014.executor": "Run",
-    "Python.096.executor": "Run",
-    "Python.131.executor": "Run",
-    "Python.145.executor": "Run",
-    "Python.147.executor": "Run",
-    "Python.LAb162.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab0011.executor": "Run",
-    "Python.Lab0016.executor": "Run",
-    "Python.Lab0017.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab060.executor": "Run",
-    "Python.Lab061.executor": "Run",
-    "Python.Lab072.executor": "Run",
-    "Python.Lab073.executor": "Run",
-    "Python.Lab134.executor": "Run",
-    "Python.Lab135.executor": "Run",
-    "Python.Lab136.executor": "Run",
-    "Python.Lab138.executor": "Run",
-    "Python.Lab139.executor": "Run",
-    "Python.Lab140.executor": "Run",
-    "Python.Lab141.executor": "Run",
-    "Python.Lab143.executor": "Run",
-    "Python.Lab144.executor": "Run",
-    "Python.Lab146.executor": "Run",
-    "Python.Lab148.executor": "Run",
-    "Python.Lab149.executor": "Run",
-    "Python.Lab152.executor": "Run",
-    "Python.Lab153.executor": "Run",
-    "Python.Lab154.executor": "Run",
-    "Python.Lab155.executor": "Run",
-    "Python.Lab158.executor": "Run",
-    "Python.Lab159.executor": "Run",
-    "Python.Lab160.executor": "Run",
-    "Python.Lab161.executor": "Run",
-    "Python.Lab163.executor": "Run",
-    "Python.Lab164.executor": "Run",
-    "Python.Lab166.executor": "Run",
-    "Python.Lab167.executor": "Run",
-    "Python.Lab168.executor": "Run",
-    "Python.Lab169.executor": "Run",
-    "Python.Lab170.executor": "Run",
-    "Python.Lab173.executor": "Run",
-    "Python.Lab174.executor": "Run",
-    "Python.Lab175.executor": "Run",
-    "Python.Lab_075.executor": "Run",
-    "Python.Leb113.executor": "Run",
-    "Python.Leb115.executor": "Run",
-    "Python.ex_lab058.executor": "Run",
-    "Python.ex_lab074.executor": "Run",
-    "Python.lab015.executor": "Run",
-    "Python.lab016.executor": "Run",
-    "Python.lab017.executor": "Run",
-    "Python.lab018.executor": "Run",
-    "Python.lab049.executor": "Run",
-    "Python.lab051.executor": "Run",
-    "Python.lab052.executor": "Run",
-    "Python.lab053.executor": "Run",
-    "Python.lab054.executor": "Run",
-    "Python.lab055.executor": "Run",
-    "Python.lab056.executor": "Run",
-    "Python.lab057.executor": "Run",
-    "Python.lab077.executor": "Run",
-    "Python.lab079.executor": "Run",
-    "Python.lab085.executor": "Run",
-    "Python.lab087.executor": "Run",
-    "Python.lab088.executor": "Run",
-    "Python.lab089.executor": "Run",
-    "Python.lab091.executor": "Run",
-    "Python.lab092.executor": "Run",
-    "Python.lab093.executor": "Run",
-    "Python.lab094.executor": "Run",
-    "Python.lab095.executor": "Run",
-    "Python.lab097.executor": "Run",
-    "Python.lab098.executor": "Run",
-    "Python.lab101.executor": "Run",
-    "Python.lab102.executor": "Run",
-    "Python.lab117.executor": "Run",
-    "Python.lab118.executor": "Run",
-    "Python.lab119.executor": "Run",
-    "Python.lab123.executor": "Run",
-    "Python.lab124.executor": "Run",
-    "Python.lab125.executor": "Run",
-    "Python.lab126-.executor": "Run",
-    "Python.lab126.executor": "Run",
-    "Python.lab127.executor": "Run",
-    "Python.lab128.executor": "Run",
-    "Python.lab129.executor": "Run",
-    "Python.lab130.executor": "Run",
-    "Python.lab132.executor": "Run",
-    "Python.lab137.executor": "Run",
-    "Python.lab142.executor": "Run",
-    "Python.lab157.executor": "Run",
-    "Python.lab90.executor": "Run",
-    "Python.lab99.executor": "Run",
-    "Python.leb0076.executor": "Run",
-    "Python.leb071.executor": "Run",
-    "Python.leb078.executor": "Run",
-    "Python.leb080.executor": "Run",
-    "Python.leb081.executor": "Run",
-    "Python.leb082.executor": "Run",
-    "Python.leb083.executor": "Run",
-    "Python.leb086.executor": "Run",
-    "Python.leb116.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/Ex_03062024",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_lab179.test_removeaddition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab183.test_sub0.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab183.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.131.executor&quot;: &quot;Run&quot;,
+    &quot;Python.145.executor&quot;: &quot;Run&quot;,
+    &quot;Python.147.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb162.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab072.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab073.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab134.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab135.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab136.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab138.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab139.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab140.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab141.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab143.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab144.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab146.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab148.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab149.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab152.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab153.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab154.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab155.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab158.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab159.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab160.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab161.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab163.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab164.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab166.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab167.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab168.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab169.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab170.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab173.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab174.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab175.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab176.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab177.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab179.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_075.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leb113.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leb115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex_lab074.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab077.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab079.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab088.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab091.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab093.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab095.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab098.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab117.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab118.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab119.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab124.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab125.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab126-.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab126.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab127.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab128.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab129.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab130.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab132.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab137.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab142.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab90.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb0076.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb078.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leb116.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lab180.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_lab183.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/FirstPycharmProjects/PyLearning3xATB/22072024&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\22072024" />
+      <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\05072024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_03062024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_07012024" />
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\ex_28062024" />
@@ -189,7 +206,7 @@
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_21062024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab179.test_removeaddition">
     <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -256,8 +273,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_lab179.test_removeaddition" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab179.test_removeaddition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab183.test_sub0" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab183.test_sub0&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_lab183.test_sub0" />
         <item itemvalue="Python.Lab168" />
         <item itemvalue="Python.Lab167" />
         <item itemvalue="Python.Lab166" />
@@ -352,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719939858238</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4">
+      <option name="closed" value="true" />
+      <created>1720071630656</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720071630656</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -370,6 +426,15 @@
           <url>file://$PROJECT_DIR$/Ex_19062024/ex_lab074.py</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22072024/test_lab183.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22072024/test_lab183.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
