@@ -5,32 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1cad0c4-ff50-46c5-99b5-e95f838431d6" name="Changes" comment="4">
-      <change afterPath="$PROJECT_DIR$/05072024/Api testing Learning.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/ApiTesting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/ApiTestingCocept.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/Lab175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/Lab176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/Lab177.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/Lab178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/Lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/pramod/td.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05072024/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22072024/test_lab179.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22072024/test_lab180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22072024/test_lab181.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22072024/test_lab182.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22072024/test_lab183.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_10062024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24072024/test_lab183.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24072024/test_lab184.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24072024/test_lab186.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24072024/test_lab187.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/integration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/integration/test_integration_tc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/test_Lab188.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/test_Lab189.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26072024/test_Lab190.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +46,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Lab189.test_i_need_confirm.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab179.test_removeaddition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab183.test_get_single_by_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_lab183.test_get_single_by_id_invalid.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_lab183.test_sub0.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_lab183.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.014.executor&quot;: &quot;Run&quot;,
@@ -206,51 +194,7 @@
       <recent name="C:\Users\lenovo\FirstPycharmProjects\PyLearning3xATB\Ex_21062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab179.test_removeaddition">
-    <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab166.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab167" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_03072024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_03072024/Lab167.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab189.test_i_need_confirm">
     <configuration name="Lab168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -273,6 +217,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab189.test_i_need_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab189.test_i_need_confirm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_lab179.test_removeaddition" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -285,6 +244,36 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_lab179.test_removeaddition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab183.test_get_single_by_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab183.test_get_single_by_id&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab183.test_get_single_by_id_invalid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab183.test_get_single_by_id_invalid&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -305,10 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab189.test_i_need_confirm" />
+        <item itemvalue="Python tests.Python tests for test_lab183.test_get_single_by_id_invalid" />
+        <item itemvalue="Python tests.Python tests for test_lab183.test_get_single_by_id" />
         <item itemvalue="Python tests.Python tests for test_lab183.test_sub0" />
         <item itemvalue="Python.Lab168" />
-        <item itemvalue="Python.Lab167" />
-        <item itemvalue="Python.Lab166" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +398,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720071630656</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="4">
+      <option name="closed" value="true" />
+      <created>1721825374678</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721825374678</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4">
+      <option name="closed" value="true" />
+      <created>1721825428199</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721825428201</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
